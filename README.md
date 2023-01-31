@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lyxnn10)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
