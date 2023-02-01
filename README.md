@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?heading="H1"&font=Fira+Code&pause=0&center=true&width=400&height=50&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!)](https://git.io/typing-svg)
 
-
-<div style="display: flex; flex-direction: row;">
- <img class="img" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
-</div>
-
-<div align="center" dir="auto">
+<div align="center" dir="auto" style="display: flex; flex-direction: row;">
+ <img class="img" style="height: auto;" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
  <img class="img" style="height: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent" />
- </div>
+ &nbsp;
+&nbsp;
+  <img class="img" style="height: auto" src="http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats" />
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
   
