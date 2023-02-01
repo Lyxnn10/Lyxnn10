@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?heading="H1"&font=Fira+Code&pause=0&center=true&width=400&height=50&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!)](https://git.io/typing-svg)
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
- <img class="img" style="height: auto; width: 45%;" src="https://readme-typing-svg.demolab.com?heading="H1"&font=Fira+Code&pause=0&center=true&width=400&height=50&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!)](https://git.io/typing-svg" />
+ <img class="img" style="height: auto; width: 45%;" src="https://readme-typing-svg.demolab.com?heading="H1"&font=Fira+Code&pause=0&center=true&width=400&height=50&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!" />
 </div>
 
 <h1>GitHub Stats</h1>
