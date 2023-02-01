@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?heading="H1"&font=Fira+Code&pause=0&center=true&width=400&height=50&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!)](https://git.io/typing-svg)
 
-![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex; flex-direction: row;" align="center;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent)](https://github.com/anuraghazra/github-readme-stats" />
+<div style="display: flex; flex-direction: row;">
+ <img class="img" align="center" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
+ <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent" />
 </div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
   
 [![Lyxnn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyxnn10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
