@@ -2,21 +2,29 @@
  <img class="img" style="height: auto; width: 60%;" src="header.png" />
 </div>
 
-<h1>GitHub Stats</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=043E8B&vCenter=true&width=435&lines=Always+studying%2C;Always+learning+new+things!)](https://git.io/typing-svg)
+
+
+<h1>About Me:</h1>
+I am interested in mathematics, physics, software engineering, computer science in general, artificial intelligence, ethical hacking and game development. I love to code, pentest and more. I speak C/C++, Python, Java, JavaScript, Haskell, and Rust and have a basic understanding of Ruby and TypeScript.
+
+<h1>GitHub Stats:</h1>
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
  &nbsp;
  <img class="img" style="height: auto; width: 45%;" src="http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo" />
+</div>
 
  </br>
- </br>
-
+ 
+<div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto; width: 100%;" src="img.gif" />
 
  </br>
  </br>
  
 [![Lyxnn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyxnn10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 </br>
 
