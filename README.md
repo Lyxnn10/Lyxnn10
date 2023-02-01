@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&center=true&width=400&height=5&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!)](https://git.io/typing-svg) <h1></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&center=true&width=400&height=50&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!)](https://git.io/typing-svg)<h1></h1>
 
 ![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent&hide=stars,prs)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
