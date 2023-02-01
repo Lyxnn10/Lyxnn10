@@ -1,7 +1,7 @@
 Hi there 👋
-<center>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
-<\center>
+<center> Lyx </center>
 <h3 align="left">Languages and Tools:</h3>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
