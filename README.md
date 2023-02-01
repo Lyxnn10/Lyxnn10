@@ -2,6 +2,7 @@ Hi there 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
