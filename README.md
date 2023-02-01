@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?heading="H1"&font=Fira+Code&pause=0&center=true&width=400&height=50&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!)](https://git.io/typing-svg)
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
- <img class="img" style="height: auto; width: 45%;" src="https://readme-typing-svg.demolab.com?heading="H1"&font=Fira+Code&pause=0&center=true&width=400&height=50&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!" />
+ <img class="img" style="height: auto; width: 60%;" src="header.png" />
 </div>
 
 <h1>GitHub Stats</h1>
@@ -8,21 +7,24 @@
  <img class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
  &nbsp;
  <img class="img" style="height: auto; width: 45%;" src="http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo" />
-</div>
 
-</br>
-  
+ </br>
+ </br>
+
+ <img class="img" style="height: auto; width: 100%;" src="img.gif" />
+
+ </br>
+ </br>
+ 
 [![Lyxnn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyxnn10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent" />
-</div>
 
 </br>
 
-<div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto" src="https://profile-counter.glitch.me/Lyxnn10/count.svg" />
 </div>
 
