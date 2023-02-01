@@ -3,7 +3,6 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
- <img class="img" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent" />
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
