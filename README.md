@@ -2,7 +2,6 @@
 
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto;" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
- <img class="img" style="height: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent" />
  <img class="img" style="height: auto" src="http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo" />
 </div>
   
@@ -10,8 +9,9 @@
 
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent" />
- &nbsp;
- &nbsp;
+</div>
+
+<div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto" src="https://profile-counter.glitch.me/Lyxnn10/count.svg" />
 </div>
 
