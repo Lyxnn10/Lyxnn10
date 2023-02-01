@@ -1,4 +1,4 @@
-Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 ![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=radical)
 
