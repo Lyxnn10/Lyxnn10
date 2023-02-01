@@ -1,5 +1,5 @@
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
- <img class="img" style="height: auto; width: 60%;" src="header.png" />
+ <img class="img" style="height: auto; width: 60%;" src="mainHeader.png" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=043E8B&vCenter=true&width=435&lines=Always+studying%2C;Always+learning+new+things!)](https://git.io/typing-svg)
