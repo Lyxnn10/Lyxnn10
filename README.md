@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
-![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent) &emsp
+![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 [![Lyxnn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyxnn10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
