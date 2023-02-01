@@ -5,7 +5,7 @@
 
 [![Lyxnn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyxnn10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=compact&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools I use:</h3>
