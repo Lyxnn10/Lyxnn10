@@ -3,9 +3,9 @@
 ![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+<div style="display: flex; flex-direction: row;" align="center;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
   
