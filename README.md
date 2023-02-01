@@ -1,6 +1,6 @@
 Hi there 👋
-![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=radical)
 
+![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
 
