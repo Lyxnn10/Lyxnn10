@@ -2,6 +2,7 @@
 
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
+ &nbsp;
  <img class="img" style="height: auto; width: 45%;" src="http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo" />
 </div>
 
