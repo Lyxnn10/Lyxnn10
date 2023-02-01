@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&center=true&width=400&height=50&lines=hey+there+%F0%9F%91%8B;im+Lyxnn!)](https://git.io/typing-svg)
 
-![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent&hide=stars,prs)
+![Lyxnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <p style="text-align: center;">
