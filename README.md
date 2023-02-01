@@ -4,12 +4,18 @@
  <img class="img" style="height: auto;" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
  <img class="img" style="height: auto" src="http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo" />
 </div>
+
+</br>
   
 [![Lyxnn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyxnn10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</br>
 
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent" />
 </div>
+
+</br>
 
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto" src="https://profile-counter.glitch.me/Lyxnn10/count.svg" />
