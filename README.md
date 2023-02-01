@@ -1,6 +1,6 @@
 Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
