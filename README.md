@@ -5,7 +5,7 @@ Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I use:</h3>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
