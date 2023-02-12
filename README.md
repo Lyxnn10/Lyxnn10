@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=043E8B&vCenter=true&width=435&lines=Always+studying%2C;Always+learning+new+things!)](https://git.io/typing-svg)
 
 <h1>About Me:</h1>
-I am interested in mathematics, physics, software engineering, computer science in general, artificial intelligence, ethical hacking and game development. I love to code, pentest and more. I speak C/C++, Python, Java, JavaScript, Haskell, and Rust and have a basic understanding of Ruby, Swift and TypeScript.
+I am interested in mathematics, physics, software engineering, computer science in general, artificial intelligence, ethical hacking and game development. I love to code, pentest and more. I speak C/C++, Python, Java, JavaScript, Haskell, and Rust and have a basic understanding of Swift, Solidity and TypeScript.
 
 <h1>GitHub Stats:</h1>
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
