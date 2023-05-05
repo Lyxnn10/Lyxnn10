@@ -8,7 +8,7 @@
 <h1>About Me:</h1>
 Hello! 👋 I am interested in mathematics, physics, software engineering, computer science in general, artificial intelligence, ethical hacking and game development. I love to code, pentest and more. I speak C/C++, Python, Java, JavaScript, Haskell, and Rust and have a basic understanding of TypeScript. 
 
-Write me on my Twitter for any questions.
+Write me on my Twitter for contact.
 
 <h1>GitHub Stats:</h1>
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
