@@ -10,8 +10,6 @@ Hello! I am interested in mathematics, physics, software engineering, computer s
 
 <h1>GitHub Stats:</h1>
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
- <img class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Lyxnn10&show_icons=true&theme=transparent" />
- &nbsp;
  <img class="img" style="height: auto; width: 45%;" src="http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo" />
 </div>
 
@@ -23,13 +21,10 @@ Hello! I am interested in mathematics, physics, software engineering, computer s
  </br>
  </br>
  
-[![Lyxnn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lyxnn10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
+[![Lyxnn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lyxnn10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-grap)
 </br>
 
-<div align="center" dir="auto" style="display: flex; flex-direction: row;">
- <img class="img" style="height: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxnn10&layout=center&theme=transparent" />
+
 
 </br>
 
