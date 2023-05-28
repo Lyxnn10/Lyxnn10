@@ -30,7 +30,6 @@ Hello! I am interested in mathematics, physics, software engineering, computer s
 
  <img class="img" style="height: auto" src="https://profile-counter.glitch.me/Lyxnn10/count.svg" />
 </div>
-
   
 <h3 align="left">Languages and Tools I use:</h3>
 
