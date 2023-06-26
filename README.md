@@ -8,6 +8,7 @@
 <h1>About Me:</h1>
 Hello! I am interested in mathematics, physics, software engineering, computer science in general, artificial intelligence, ethical hacking and game development. I love to code, pentest and more. I speak C/C++, Python, Java, JavaScript, Haskell, and Rust and have a basic understanding of TypeScript and Lisp.
 
+
 <h1>GitHub Stats:</h1>
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
  <img class="img" style="height: auto; width: 45%;" src="http://github-readme-streak-stats.herokuapp.com?user=Lyxnn10&theme=tokyonight_duo" />
