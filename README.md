@@ -22,7 +22,7 @@ Hello! I am interested in mathematics, physics, software engineering, computer s
  </br>
  </br>
  
-[![Lyxnn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lyxnn10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-grap)
+[![Lyxnn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lyxnn10&theme=react-dark&color=0BF700)](https://github.com/ashutosh00710/github-readme-activity-grap)
 </br>
 
 
