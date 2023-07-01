@@ -1,5 +1,5 @@
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
- <img class="img" style="height: auto; width: 60%;" src="header.png" />
+ <img class="img" style="height: auto; width: 60%;" src="header2.png" />
 </div>
 </br>
 
