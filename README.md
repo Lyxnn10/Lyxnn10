@@ -25,12 +25,6 @@ Hello! I am interested in mathematics, physics, software engineering, computer s
 [![Lyxnn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lyxnn10&theme=react-dark&color=0BF700)](https://github.com/ashutosh00710/github-readme-activity-grap)
 </br>
 
-
-
-</br>
-
- <img class="img" style="height: auto" src="https://profile-counter.glitch.me/Lyxnn10/count.svg" />
-</div>
   
 <h3 align="left">Languages and Tools I use:</h3>
 
