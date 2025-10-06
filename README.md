@@ -7,7 +7,7 @@
 
 
 <h1>About Me:</h1>
-Hello! I am interested in mathematics, physics, software engineering, computer science in general, artificial intelligence, ethical hacking (im big fan of TryHackMe) and game development. I speak C/C++, Python, Java, JavaScript, Haskell, and Rust and have a basic understanding of TypeScript.
+Hello there! I am an engineering student, and I'm interested in mathematics, physics,  aerospace engineering, computer science in general, artificial intelligence, ethical hacking (I'm a big fan of TryHackMe) and a little game development. I speak and learn C/C++, Python, Java, JavaScript, and Rust.
 
 <h1>GitHub Stats:</h1>
 <div align="center" dir="auto" style="display: flex; flex-direction: row;">
